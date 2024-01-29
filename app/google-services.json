@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737597876929",
+    "project_id": "music-app-7719d",
+    "storage_bucket": "music-app-7719d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737597876929:android:586beb7a539e7641a48240",
+        "android_client_info": {
+          "package_name": "com.vaibhav.musicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOxCREoRfiz_Lpk6ckMbAuTSmP5XpaHms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
